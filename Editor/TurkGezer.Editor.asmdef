@@ -1,0 +1,6 @@
+{
+  "name": "TurkGezer.Editor",
+  "rootNamespace": "TurkGezer.Editor",
+  "references": ["TurkGezer.Runtime", "UnityEngine.UI"],
+  "includePlatforms": ["Editor"]
+}
