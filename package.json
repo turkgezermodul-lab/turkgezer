@@ -1,0 +1,22 @@
+{
+  "name": "com.turkgezer.module",
+  "version": "1.2.0",
+  "displayName": "TurkGezer - Acik Kaynak Yazilim Modulu",
+  "description": "Platform bagimsiz gorev, deney, ISS konum ve soru-cevap bilesenleri; bilgisayar, mobil, VR ve AR icin yeniden kullanilabilir altyapi.",
+  "unity": "2022.3",
+  "keywords": ["space", "education", "missions", "simulation", "AR", "VR"],
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.textmeshpro": "3.0.7",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.xr": "1.0.0"
+  },
+  "samples": [
+    { "displayName": "Hafif Teknik Baslangic Ornekleri", "description": "Istege bagli, ilkel geometri kullanan kucuk teknik test ornekleri.", "path": "Samples~/Baslangic" }
+  ]
+}

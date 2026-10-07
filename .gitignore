@@ -1,0 +1,40 @@
+# Unity project state and generated outputs
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Bb]uild/
+[Bb]uilds/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.log
+*.apk
+*.aab
+*.exe
+*.dll
+*.pdb
+# Credentials and local/private configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.pfx
+*.p12
+*.keystore
+*.jks
+id_rsa*
+id_ed25519*
+**/Private/
+**/Secrets/
+# Unverified author and third-party design assets are not public distribution.
+Samples~/TasarimKutuphane/
+# Release archives belong outside the source tree.
+*.tgz
+*.unitypackage
+*.zip
+.DS_Store
+Thumbs.db
