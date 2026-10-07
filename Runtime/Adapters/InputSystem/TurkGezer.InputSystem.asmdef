@@ -1,0 +1,7 @@
+{
+  "name": "TurkGezer.InputSystem",
+  "rootNamespace": "TurkGezer.Platform",
+  "references": ["TurkGezer.Runtime", "Unity.InputSystem"],
+  "defineConstraints": ["TURKGEZER_INPUT_SYSTEM"],
+  "versionDefines": [{ "name": "com.unity.inputsystem", "expression": "1.0.0", "define": "TURKGEZER_INPUT_SYSTEM" }]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "TurkGezer.XRI",
+  "references": ["TurkGezer.Runtime", "Unity.XR.Interaction.Toolkit"],
+  "defineConstraints": ["TURKGEZER_XRI"],
+  "versionDefines": [{ "name": "com.unity.xr.interaction.toolkit", "expression": "[2.5.0,3.0.0)", "define": "TURKGEZER_XRI" }]
+}

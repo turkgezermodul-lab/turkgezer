@@ -1,0 +1,6 @@
+{
+  "name": "TurkGezer.ARFoundation",
+  "references": ["TurkGezer.Runtime", "Unity.XR.ARFoundation", "Unity.XR.ARSubsystems"],
+  "defineConstraints": ["TURKGEZER_AR_FOUNDATION"],
+  "versionDefines": [{ "name": "com.unity.xr.arfoundation", "expression": "[4.2.0,6.0.0)", "define": "TURKGEZER_AR_FOUNDATION" }]
+}

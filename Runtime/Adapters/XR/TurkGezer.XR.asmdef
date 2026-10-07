@@ -1,0 +1,6 @@
+{
+  "name": "TurkGezer.XR",
+  "references": ["TurkGezer.Runtime"],
+  "defineConstraints": ["TURKGEZER_XR_MODULE"],
+  "versionDefines": [{ "name": "com.unity.modules.xr", "expression": "1.0.0", "define": "TURKGEZER_XR_MODULE" }]
+}

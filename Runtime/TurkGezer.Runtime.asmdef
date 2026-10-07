@@ -1,0 +1,6 @@
+{
+  "name": "TurkGezer.Runtime",
+  "rootNamespace": "TurkGezer",
+  "references": ["UnityEngine.UI"],
+  "autoReferenced": true
+}
