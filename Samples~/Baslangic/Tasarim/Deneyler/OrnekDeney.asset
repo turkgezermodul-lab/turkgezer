@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f303ec0a2ba502439612ec628145ca6, type: 3}
+  m_Name: OrnekDeney
+  m_EditorClassIdentifier: 
+  experimentId: mikroyercekim
+  title: Mikroyercekimde Deneyler
+  explanation: ISS ve icindeki cisimler Dunya cevresinde birlikte serbest dusme hareketi
+    yapar. Bu ortam mikroyercekim olarak adlandirilir. Bu kart ornek iceriktir; yeni
+    deneylerinizi kendi bilimsel kaynaklarinizla tanimlayin.
+  sourceUrl: https://www.nasa.gov/microgravity/
+  narration: {fileID: 0}
+  cardImage: {fileID: 0}
+  modelPrefab: {fileID: 0}
